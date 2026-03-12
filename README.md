@@ -131,18 +131,5 @@ Scatter plot, yakın zamanda alışveriş yapan müşterilerin aynı zamanda en 
 ## Kullanılan Teknolojiler
 - Python(pandas, matplotlib)
 
-## Dosya Yapısı
-customer-segmentation/
-│── data/
-│   ├── Online Retail.csv          # Ham veri
-│   └── rfm_segments.csv           # Segmentlenmiş son veri
-|── images/
-|   ├── musteri_dagilimi.png
-|   ├── ortalama_harcama.png
-|   └── segment_dagilimi.png
-│── exploration.py                 # Veri temizleme ve RFM analizi
-│── visualization.py               # Görselleştirmeler
-│── README.md
-
 **Mertol Açıkgöz**   
 mertolacikgoz93@gmail.com
